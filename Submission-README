@@ -3,7 +3,7 @@ LegalAid AI is a web application that provides users with accurate and accessibl
 This project leverages the power of AI to bridge the gap between complex legal jargon and the general public, offering a first step in legal literacy and empowerment.
 
 🌐 Live Site
-https://yourusername.github.io/LegalAidAI
+https://ShaunvdBijl.github.io/LegalAidAI
 
 🛠️ Technologies Used
 Frontend: HTML, CSS, JavaScript
@@ -34,7 +34,7 @@ Managed with GitHub Projects:
 
 Created board with To Do, In Progress, and Done columns
 
-At least 6 cards including:
+Including:
 
 As a user, I want to ask a question and get a quick legal answer.
 
@@ -54,7 +54,7 @@ To run locally:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/LegalAidAI.git
+git clone https://github.com/ShaunvdBijl/LegalAidAI.git
 cd LegalAidAI
 open index.html
 Or visit the live site above.
@@ -78,9 +78,10 @@ Improve answer citations and link to official resources
 Add user authentication for saving past conversations
 
 📫 Contact
-📧 your.email@example.com
+📧 shaunvdbijl@gmail.com
 
 🌐 LinkedIn Profile
+www.linkedin.com/in/shaun-vdbijl-47a14336a
 
 ⚠️ Disclaimer
 LegalAid AI is an educational tool and does not provide professional legal advice. For specific legal concerns, users should consult with a qualified legal professional.
