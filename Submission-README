@@ -1,0 +1,86 @@
+LegalAid AI is a web application that provides users with accurate and accessible legal information through a conversational AI interface. Users can ask legal questions related to topics such as contracts, employment rights, tenant laws, and more. The AI responds with relevant, easy-to-understand guidance, helping individuals better understand their legal options before seeking formal legal advice.
+
+This project leverages the power of AI to bridge the gap between complex legal jargon and the general public, offering a first step in legal literacy and empowerment.
+
+🌐 Live Site
+https://yourusername.github.io/LegalAidAI
+
+🛠️ Technologies Used
+Frontend: HTML, CSS, JavaScript
+
+AI Integration: OpenAI GPT (ChatGPT API or similar)
+
+Backend (optional): Node.js / Express (for secured API calls)
+
+Version Control & Deployment: Git, GitHub, GitHub Pages
+
+Automation: GitHub Actions for CI and workflow automation
+
+🚀 Features
+💬 Chat interface to ask legal questions
+
+📚 Covers key areas: contracts, labor law, tenant rights, etc.
+
+🌍 Localized legal information support (customized by country/region)
+
+🔐 Disclaimer that AI is not a licensed legal practitioner
+
+🎯 Mobile-responsive and user-friendly design
+
+⚙️ GitHub Actions workflow for deployment and code validation
+
+📋 Project Planning
+Managed with GitHub Projects:
+
+Created board with To Do, In Progress, and Done columns
+
+At least 6 cards including:
+
+As a user, I want to ask a question and get a quick legal answer.
+
+As a user, I want a clean disclaimer so I understand the AI isn’t a lawyer.
+
+As a developer, I want to integrate an AI API that handles natural language.
+
+As a designer, I want a responsive layout for mobile users.
+
+As a maintainer, I want automated checks for each push.
+
+As a contributor, I want meaningful commit messages and clear branching.
+
+🔧 Installation & Usage
+To run locally:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/LegalAidAI.git
+cd LegalAidAI
+open index.html
+Or visit the live site above.
+
+✅ What’s Working
+AI-powered Q&A interface is functional
+
+GitHub Pages deployment is live and responsive
+
+Workflow automation is enabled (basic GitHub Actions YAML file)
+
+Project board tracks all major tasks
+
+🔄 What’s Next
+Integrate country-specific legal datasets
+
+Add multilingual support for broader accessibility
+
+Improve answer citations and link to official resources
+
+Add user authentication for saving past conversations
+
+📫 Contact
+📧 your.email@example.com
+
+🌐 LinkedIn Profile
+
+⚠️ Disclaimer
+LegalAid AI is an educational tool and does not provide professional legal advice. For specific legal concerns, users should consult with a qualified legal professional.
